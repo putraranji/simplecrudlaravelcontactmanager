@@ -4,12 +4,9 @@
 
 ## About Simple CRUD Laravel Contact Manager
 
-## Learning Laravel
+This is basic application that user can create, retrieve, update and delete record using laravel framework 5.4
 
-## Contributing
-
-## Security Vulnerabilities
 
 ## License
 
-Simple CRUD Laravel Contact Manager is open-sourced application 
+Simple CRUD Laravel Contact Manager is open-sourced application
