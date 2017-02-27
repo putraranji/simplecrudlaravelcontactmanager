@@ -17,7 +17,7 @@
   </div>
 @endif
 
-<table class="table table-striped">
+<table class="table table-condensed">
   <thead class="thead-inverse">
     <tr>
       <th>No</th>
